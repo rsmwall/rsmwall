@@ -1,8 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsmwall&count_private=true&show_icons=true&theme=dark)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsmwall&count_private=true&show_icons=true&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsmwall&layout=compact&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/rsmwall/github-readme-stats)
 
 <!--
 **rsmwall/rsmwall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
