@@ -10,7 +10,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href = "rafaelrsilva.dev@gmail.com">
+<a href = "mailto:rafaelrsilva.dev@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </a>
 <a href="https://linkedin.com/in/rsmwall" target="_blank">
