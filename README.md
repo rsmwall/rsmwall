@@ -10,34 +10,33 @@
 
 <br>
 
-## Learning
-
-<br>
-
 <div align="center">
-  <img src=https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white alt="ruby" style="margin-bottom: 5px;"></a>
-  <img src=https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E alt="javascript" style="margin-bottom: 5px;">
-  <img src=https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white alt="unity" style="margin-bottom: 5px;"></a>
-  <img src=https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white alt="csharp" style="margin-bottom: 5px;"></a>
+  <h2>Learning</h2>
+  <br>
+
+  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" style="margin-bottom: 5px;"></a>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" style="margin-bottom: 5px;">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity" style="margin-bottom: 5px;"></a>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" style="margin-bottom: 5px;"></a>
 </div>  
 
 <br>
 
-## Connect with me  
-
-<br>
-
 <div align="center">
+  <h2>Connect with Me</h2>
+  
+  <br>
+
   <a href = "mailto:rafaelrsilva.dev@gmail.com">
-  <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="gmail" style="margin-bottom: 5px;"></a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;"></a>
   </a>
   <a href="https://linkedin.com/in/rsmwall" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <a href="https://instagram.com/rsmwall" target="_blank">
-  <img src=https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
   </a>
   <a href="https://twitter.com/rsmwall" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
   </a>  
 </div>  
