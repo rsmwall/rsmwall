@@ -13,7 +13,8 @@
 <div align="center">
   <h2>Learning</h2>
   <br>
-
+  
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter" style="margin-bottom: 5px;"></a>
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" style="margin-bottom: 5px;"></a>
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity" style="margin-bottom: 5px;"></a>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" style="margin-bottom: 5px;"></a>
