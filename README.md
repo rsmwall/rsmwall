@@ -1,4 +1,4 @@
-<div><h1>Hello, folks! I'm Rafael! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1></div>
+<div><h1>Hello, folks! I'm Rafael!</h1></div>
 
 <div><img src="https://readme-typing-svg.herokuapp.com?color=%23C9D1D9&center=verdade&vCenter=verdade&width=315&lines=Some+People+Call+It+Magic!" align="center"/></div>
 
