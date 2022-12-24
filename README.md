@@ -8,3 +8,5 @@
     </th>
   </tr>
 </table>
+
+[![Rafael's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rsmwall&theme=github-compact)](https://github.com/rsmwall/github-readme-activity-graph)
