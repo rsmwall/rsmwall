@@ -1,6 +1,6 @@
-<div align="center" vertically-align="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=rsmwall&show_icons=true&&bg_color=0d1117&&hide_border=true&&text_color=89929c&&title_color=c9d1d9">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsmwall&layout=compact&&bg_color=0d1117&&hide_border=true&&text_color=89929c&&title_color=c9d1d9"/>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rsmwall&show_icons=true&&bg_color=0d1117&&hide_border=true&&text_color=89929c&&title_color=c9d1d9">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsmwall&layout=compact&&bg_color=0d1117&&hide_border=true&&text_color=89929c&&title_color=c9d1d9"/>
 </div>
   <br>
   
