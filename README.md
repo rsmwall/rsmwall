@@ -5,3 +5,8 @@
   <br>
   
 [![Rafael's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rsmwall&theme=github-compact&hide_border=true)](https://github.com/rsmwall/github-readme-activity-graph)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117">
+  <img alt="A single image caption for both variants" src="https://img.shields.io/badge/-Node.JS-white?style=for-the-badge&logo=node.js&labelColor=white&textColor=0D1117">
+</picture>
