@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=black&labelColor=white&textColor=0D1117">&nbsp;
 </picture>
 
-###### OS (<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Visual Studio Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=43A4ED&labelColor=0D1117&textColor=0D1117&width=10px">&nbsp;<img src="https://img.shields.io/badge/-Visual Studio Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=43A4ED&labelColor=white&textColor=0D1117">&nbsp;</picture>):
+###### OS (<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117&textColor=0D1117">&nbsp;<img src="https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux&logoColor=black&labelColor=white&textColor=0D1117" style="padding-bottom: 310px">&nbsp;</picture>):
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Visual Studio Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=43A4ED&labelColor=0D1117&textColor=0D1117">&nbsp;
