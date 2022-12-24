@@ -9,29 +9,29 @@
 #### Main skills:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GDScript-0D1117?style=for-the-badge&logo=godotengine&logoColor=4588B9&labelColor=0D1117&textColor=0D1117">&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GDScript-0D1117?style=for-the-badge&logo=godotengine&logoColor=4588B9&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-GDScript-white?style=for-the-badge&logo=godotengine&logoColor=de1d16&labelColor=white&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Godot Engine-0D1117?style=for-the-badge&logo=godotengine&logoColor=4588B9&labelColor=0D1117&textColor=0D1117">&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Godot Engine-0D1117?style=for-the-badge&logo=godotengine&logoColor=4588B9&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-Godot Engine-white?style=for-the-badge&logo=godotengine&logoColor=de1d16&labelColor=white&textColor=0D1117">&nbsp;
 </picture>
 
 #### Studying in this moment:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Ruby on Rails-0D1117?style=for-the-badge&logo=rubyonrails&logoColor=C60000&labelColor=0D1117&textColor=0D1117">&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Ruby on Rails-0D1117?style=for-the-badge&logo=rubyonrails&logoColor=C60000&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-Ruby on Rails-white?style=for-the-badge&logo=rubyonrails&logoColor=C60000&labelColor=white&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=058E0C&labelColor=0D1117&textColor=0D1117">&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=058E0C&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-C%23-white?style=for-the-badge&logo=c-sharp&logoColor=058E0C&labelColor=white&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Unity Engine-0D1117?style=for-the-badge&logo=unity&logoColor=D7D7D7&labelColor=0D1117&textColor=0D1117">&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Unity Engine-0D1117?style=for-the-badge&logo=unity&logoColor=D7D7D7&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-Unity Engine-white?style=for-the-badge&logo=unity&logoColor=000000&labelColor=white&textColor=0D1117">&nbsp;
 </picture>
 
@@ -40,20 +40,37 @@
 ###### General:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Visual Studio Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=43A4ED&labelColor=0D1117&textColor=0D1117">&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Visual Studio Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=43A4ED&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-Visual Studio Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=43A4ED&labelColor=white&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&textColor=0D1117">&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=black&labelColor=white&textColor=0D1117">&nbsp;
 </picture>
 
-###### OS (<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117&textColor=0D1117">&nbsp;<img src="https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux&logoColor=black&labelColor=white&textColor=0D1117" style="padding-bottom: 310px">&nbsp;</picture>):
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GNU Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=181e26&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-GNU Bash-white?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=white&textColor=0D1117">&nbsp;
+</picture>
+
+###### OS ( LINUX ):
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Visual Studio Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=43A4ED&labelColor=0D1117&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Visual Studio Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=43A4ED&labelColor=white&textColor=0D1117">&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kali Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=367BF0&labelColor=181e26&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Kali Linux-white?style=for-the-badge&logo=kalilinux&logoColor=367BF0&labelColor=white&textColor=0D1117">&nbsp;
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Arch Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=2F9BD0&labelColor=181e26&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Arch Linux-white?style=for-the-badge&logo=arch-linux&logoColor=2F9BD0&labelColor=white&textColor=0D1117">&nbsp;
+</picture>
+
+###### Hardware:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-ASUS ZenBook-0D1117?style=for-the-badge&logo=asus&logoColor=white&labelColor=181e26&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-ASUS ZenBook-white?style=for-the-badge&logo=asus&logoColor=black&labelColor=white&textColor=0D1117">&nbsp;
 </picture>
 
 #### Other Knowledge:
