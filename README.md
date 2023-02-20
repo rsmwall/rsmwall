@@ -13,71 +13,71 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GDScript-0D1117?style=for-the-badge&logo=godotengine&logoColor=4588B9&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-GDScript-white?style=for-the-badge&logo=godotengine&logoColor=de1d16&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-GDScript-white?style=for-the-badge&logo=godotengine&logoColor=4588B9&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Godot Engine-0D1117?style=for-the-badge&logo=godotengine&logoColor=4588B9&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Godot Engine-white?style=for-the-badge&logo=godotengine&logoColor=de1d16&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Godot Engine-white?style=for-the-badge&logo=godotengine&logoColor=4588B9&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 #### Studying in this moment:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Ruby on Rails-0D1117?style=for-the-badge&logo=rubyonrails&logoColor=C60000&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Ruby on Rails-white?style=for-the-badge&logo=rubyonrails&logoColor=C60000&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Ruby on Rails-white?style=for-the-badge&logo=rubyonrails&logoColor=C60000&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=058E0C&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-C%23-white?style=for-the-badge&logo=c-sharp&logoColor=058E0C&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-C%23-white?style=for-the-badge&logo=c-sharp&logoColor=058E0C&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Unity Engine-0D1117?style=for-the-badge&logo=unity&logoColor=D7D7D7&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Unity Engine-white?style=for-the-badge&logo=unity&logoColor=000000&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Unity Engine-white?style=for-the-badge&logo=unity&logoColor=000000&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 #### Interests:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=D84924&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=html5&logoColor=D84924&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=html5&logoColor=D84924&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=2449d8&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-CSS3-white?style=for-the-badge&logo=css3&logoColor=2449d8&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-CSS3-white?style=for-the-badge&logo=css3&logoColor=2449d8&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=E4D04B&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=E4D04B&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=E4D04B&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3E79A7&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=3E79A7&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=3E79A7&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Shell Script-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Shell Script-white?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Shell Script-white?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Lua-0D1117?style=for-the-badge&logo=lua&logoColor=2C2D72&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Lua-white?style=for-the-badge&logo=plua&logoColor=2C2D72&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Lua-white?style=for-the-badge&logo=plua&logoColor=2C2D72&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=30628A&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=30628A&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=30628A&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=55BCEB&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=flutter&logoColor=55BCEB&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=flutter&logoColor=55BCEB&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 #### Tools:
@@ -86,46 +86,46 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Visual Studio Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=43A4ED&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Visual Studio Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=43A4ED&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Visual Studio Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=43A4ED&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=e44d30&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git&logoColor=e44d30&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git&logoColor=e44d30&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=black&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=black&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Alacritty-0D1117?style=for-the-badge&logo=alacritty&logoColor=F28C07&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Alacritty-white?style=for-the-badge&logo=alacritty&logoColor=F28C07&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Alacritty-white?style=for-the-badge&logo=alacritty&logoColor=F28C07&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-BSPWM-0D1117?style=for-the-badge&logo=linux&logoColor=white&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-BSPWM-white?style=for-the-badge&logo=linux&logoColor=black&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-BSPWM-white?style=for-the-badge&logo=linux&logoColor=black&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 ###### OS ( LINUX ):
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Arch Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=2F9BD0&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Arch Linux-white?style=for-the-badge&logo=arch-linux&logoColor=2F9BD0&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Arch Linux-white?style=for-the-badge&logo=arch-linux&logoColor=2F9BD0&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kali Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=367BF0&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Kali Linux-white?style=for-the-badge&logo=kalilinux&logoColor=367BF0&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Kali Linux-white?style=for-the-badge&logo=kalilinux&logoColor=367BF0&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 ###### Hardware:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-ASUS ZenBook-0D1117?style=for-the-badge&logo=asus&logoColor=white&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-ASUS ZenBook-white?style=for-the-badge&logo=asus&logoColor=black&labelColor=white&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-ASUS ZenBook-white?style=for-the-badge&logo=asus&logoColor=black&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <!--
