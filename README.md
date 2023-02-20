@@ -67,7 +67,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Lua-0D1117?style=for-the-badge&logo=lua&logoColor=2C2D72&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Lua-white?style=for-the-badge&logo=plua&logoColor=2C2D72&labelColor=f0f0f0&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Lua-white?style=for-the-badge&logo=lua&logoColor=2C2D72&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
@@ -100,6 +100,11 @@
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Gnome-0D1117?style=for-the-badge&logo=gnome&logoColor=0080E1&labelColor=181e26&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Gnome-white?style=for-the-badge&logo=gnome&logoColor=0080E1&labelColor=f0f0f0&textColor=0D1117">&nbsp;
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Alacritty-0D1117?style=for-the-badge&logo=alacritty&logoColor=F28C07&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-Alacritty-white?style=for-the-badge&logo=alacritty&logoColor=F28C07&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
@@ -110,6 +115,11 @@
 </picture>
 
 ###### OS ( LINUX ):
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Manjaro (current main)-0D1117?style=for-the-badge&logo=manjaro&logoColor=32B557&labelColor=181e26&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Manjaro (current main)-white?style=for-the-badge&logo=manjaro&logoColor=32B557&labelColor=f0f0f0&textColor=0D1117">&nbsp;
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Arch Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=2F9BD0&labelColor=181e26&textColor=0D1117">&nbsp;
