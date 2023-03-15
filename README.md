@@ -105,7 +105,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Arch Linux (current main)-0D1117?style=for-the-badge&logo=arch-linux&logoColor=2F9BD0&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Arch Linux-white?style=for-the-badge&logo=arch-linux&logoColor=2F9BD0&labelColor=f0f0f0&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Arch Linux (current main)-white?style=for-the-badge&logo=arch-linux&logoColor=2F9BD0&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
