@@ -12,6 +12,13 @@
 #### Main skills:
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Ruby on Rails-0D1117?style=for-the-badge&logo=rubyonrails&logoColor=C60000&labelColor=181e26&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Ruby on Rails-white?style=for-the-badge&logo=rubyonrails&logoColor=C60000&labelColor=f0f0f0&textColor=0D1117">&nbsp;
+</picture>
+
+#### Side skills:
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GDScript-0D1117?style=for-the-badge&logo=godotengine&logoColor=4588B9&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-GDScript-white?style=for-the-badge&logo=godotengine&logoColor=4588B9&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
@@ -24,9 +31,11 @@
 #### Studying in this moment:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Ruby on Rails-0D1117?style=for-the-badge&logo=rubyonrails&logoColor=C60000&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Ruby on Rails-white?style=for-the-badge&logo=rubyonrails&logoColor=C60000&labelColor=f0f0f0&textColor=0D1117">&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=55BCEB&labelColor=181e26&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=flutter&logoColor=55BCEB&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
+
+#### Interests:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=058E0C&labelColor=181e26&textColor=0D1117">&nbsp;
@@ -37,8 +46,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Unity Engine-0D1117?style=for-the-badge&logo=unity&logoColor=D7D7D7&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-Unity Engine-white?style=for-the-badge&logo=unity&logoColor=000000&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
-
-#### Interests:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=D84924&labelColor=181e26&textColor=0D1117">&nbsp;
@@ -73,11 +80,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=30628A&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=30628A&labelColor=f0f0f0&textColor=0D1117">&nbsp;
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=55BCEB&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=flutter&logoColor=55BCEB&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 #### Tools:
