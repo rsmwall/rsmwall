@@ -35,18 +35,6 @@
   <img src="https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=flutter&logoColor=55BCEB&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
-#### Interests:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=058E0C&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-C%23-white?style=for-the-badge&logo=c-sharp&logoColor=058E0C&labelColor=f0f0f0&textColor=0D1117">&nbsp;
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Unity Engine-0D1117?style=for-the-badge&logo=unity&logoColor=D7D7D7&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Unity Engine-white?style=for-the-badge&logo=unity&logoColor=000000&labelColor=f0f0f0&textColor=0D1117">&nbsp;
-</picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=D84924&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=html5&logoColor=D84924&labelColor=f0f0f0&textColor=0D1117">&nbsp;
@@ -62,6 +50,18 @@
   <img src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=E4D04B&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
+#### Interests:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=058E0C&labelColor=181e26&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-C%23-white?style=for-the-badge&logo=c-sharp&logoColor=058E0C&labelColor=f0f0f0&textColor=0D1117">&nbsp;
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Unity Engine-0D1117?style=for-the-badge&logo=unity&logoColor=D7D7D7&labelColor=181e26&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Unity Engine-white?style=for-the-badge&logo=unity&logoColor=000000&labelColor=f0f0f0&textColor=0D1117">&nbsp;
+</picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3E79A7&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=3E79A7&labelColor=f0f0f0&textColor=0D1117">&nbsp;
@@ -70,11 +70,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Shell Script-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-Shell Script-white?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=f0f0f0&textColor=0D1117">&nbsp;
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Lua-0D1117?style=for-the-badge&logo=lua&logoColor=2C2D72&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Lua-white?style=for-the-badge&logo=lua&logoColor=2C2D72&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
@@ -102,29 +97,14 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Gnome-0D1117?style=for-the-badge&logo=gnome&logoColor=0080E1&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Gnome-white?style=for-the-badge&logo=gnome&logoColor=0080E1&labelColor=f0f0f0&textColor=0D1117">&nbsp;
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Alacritty-0D1117?style=for-the-badge&logo=alacritty&logoColor=F28C07&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Alacritty-white?style=for-the-badge&logo=alacritty&logoColor=F28C07&labelColor=f0f0f0&textColor=0D1117">&nbsp;
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-BSPWM-0D1117?style=for-the-badge&logo=linux&logoColor=white&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-BSPWM-white?style=for-the-badge&logo=linux&logoColor=black&labelColor=f0f0f0&textColor=0D1117">&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-KDE-0D1117?style=for-the-badge&logo=kde&logoColor=0080E1&labelColor=181e26&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-KDE-white?style=for-the-badge&logo=kde&logoColor=0080E1&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 ###### OS ( LINUX ):
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Manjaro (current main)-0D1117?style=for-the-badge&logo=manjaro&logoColor=32B557&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Manjaro (current main)-white?style=for-the-badge&logo=manjaro&logoColor=32B557&labelColor=f0f0f0&textColor=0D1117">&nbsp;
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Arch Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=2F9BD0&labelColor=181e26&textColor=0D1117">&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Arch Linux (current main)-0D1117?style=for-the-badge&logo=arch-linux&logoColor=2F9BD0&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-Arch Linux-white?style=for-the-badge&logo=arch-linux&logoColor=2F9BD0&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
