@@ -9,6 +9,14 @@
   
 [![Rafael's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rsmwall&theme=github-compact&hide_border=true)](https://github.com/rsmwall/github-readme-activity-graph)
 
+## Projects
+### Games
+#### Rocket Impulse (Android)
+
+A game in the style of the classic Flappy Bird but with a rocket. Game created in 2020, using Godot Engine 3. The game is available on [Google Play Store](https://play.google.com/store/apps/details?id=org.godotengine.rocketimpulse).
+
+<hr>
+
 #### Main skills:
 
 <picture>
