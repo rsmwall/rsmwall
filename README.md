@@ -7,8 +7,7 @@
 
 <br>
   
-[![Rafael's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rsmwall&theme=github-compact&hide_border=true)](https://github.com/rsmwall/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rsmwall&theme=github-compact&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/rsmwall/github-readme-activity-graph)
 ## Projects
 ### Games
 #### Rocket Impulse (Android)
