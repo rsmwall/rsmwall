@@ -43,45 +43,40 @@ SIMAP was a management system designed for IT Coordination. of the Federal Insti
 #### Studying in this moment:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=55BCEB&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=flutter&logoColor=55BCEB&labelColor=f0f0f0&textColor=0D1117">&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=2F74C0&labelColor=181e26&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript&logoColor=2F74C0&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=D84924&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=html5&logoColor=D84924&labelColor=f0f0f0&textColor=0D1117">&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=E51F24&labelColor=181e26&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=openjdk&logoColor=E51F24&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=2449d8&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-CSS3-white?style=for-the-badge&logo=css3&logoColor=2449d8&labelColor=f0f0f0&textColor=0D1117">&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=00599C&labelColor=181e26&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-C-white?style=for-the-badge&logo=c&logoColor=00599C&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=E4D04B&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=E4D04B&labelColor=f0f0f0&textColor=0D1117">&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=181e26&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 #### Interests:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=058E0C&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-C%23-white?style=for-the-badge&logo=c-sharp&logoColor=058E0C&labelColor=f0f0f0&textColor=0D1117">&nbsp;
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Unity Engine-0D1117?style=for-the-badge&logo=unity&logoColor=D7D7D7&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Unity Engine-white?style=for-the-badge&logo=unity&logoColor=000000&labelColor=f0f0f0&textColor=0D1117">&nbsp;
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3E79A7&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=3E79A7&labelColor=f0f0f0&textColor=0D1117">&nbsp;
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=181e26&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Shell Script-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-Shell Script-white?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=f0f0f0&textColor=0D1117">&nbsp;
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3E79A7&labelColor=181e26&textColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=3E79A7&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
 <picture>
