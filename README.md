@@ -48,11 +48,6 @@ SIMAP was a management system designed for IT Coordination. of the Federal Insti
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=E51F24&labelColor=181e26&textColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=openjdk&logoColor=E51F24&labelColor=f0f0f0&textColor=0D1117">&nbsp;
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=00599C&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-C-white?style=for-the-badge&logo=c&logoColor=00599C&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
