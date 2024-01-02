@@ -40,6 +40,8 @@ SIMAP was a management system designed for IT Coordination. of the Federal Insti
   <img src="https://img.shields.io/badge/-Godot Engine-white?style=for-the-badge&logo=godotengine&logoColor=4588B9&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
+<!--
+
 #### Studying in this moment:
 
 <picture>
@@ -56,6 +58,8 @@ SIMAP was a management system designed for IT Coordination. of the Federal Insti
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
+
+-->
 
 #### Interests:
 
