@@ -28,6 +28,8 @@ SIMAP was a management system designed for IT Coordination. of the Federal Insti
   <img src="https://img.shields.io/badge/-Ruby on Rails-white?style=for-the-badge&logo=rubyonrails&logoColor=C60000&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
+<!--
+
 #### Side skills:
 
 <picture>
@@ -39,8 +41,6 @@ SIMAP was a management system designed for IT Coordination. of the Federal Insti
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Godot Engine-0D1117?style=for-the-badge&logo=godotengine&logoColor=4588B9&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-Godot Engine-white?style=for-the-badge&logo=godotengine&logoColor=4588B9&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
-
-<!--
 
 #### Studying in this moment:
 
