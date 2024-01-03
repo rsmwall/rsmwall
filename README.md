@@ -121,16 +121,12 @@ SIMAP was a management system designed for IT Coordination. of the Federal Insti
   <img src="https://img.shields.io/badge/-Kali Linux-white?style=for-the-badge&logo=kalilinux&logoColor=367BF0&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
 
--->
-
 ###### Hardware:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-ASUS ZenBook-0D1117?style=for-the-badge&logo=asus&logoColor=white&labelColor=181e26&textColor=0D1117">&nbsp;
   <img src="https://img.shields.io/badge/-ASUS ZenBook-white?style=for-the-badge&logo=asus&logoColor=black&labelColor=f0f0f0&textColor=0D1117">&nbsp;
 </picture>
-
-<!--
 
 #### Other Knowledge:
 
