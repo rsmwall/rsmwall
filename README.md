@@ -130,8 +130,6 @@ SIMAP was a management system designed for IT Coordination. of the Federal Insti
 
 #### Other Knowledge:
 
--->
-
 <hr>
 
 <div align="center">
@@ -139,3 +137,5 @@ SIMAP was a management system designed for IT Coordination. of the Federal Insti
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">&nbsp;
   </a>
 </div>
+
+-->
