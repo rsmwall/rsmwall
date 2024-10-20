@@ -8,18 +8,6 @@
 <br>
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rsmwall&theme=github-compact&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/rsmwall/github-readme-activity-graph)
-## Projects
-### Games
-#### Rocket Impulse (Android)
-
-A game in the style of the classic Flappy Bird but with a rocket. Game created in 2020, using Godot Engine 3. The game is available on [Google Play Store](https://play.google.com/store/apps/details?id=org.godotengine.rocketimpulse).
-
-### Others
-#### SIMAP
-
-SIMAP was a management system designed for IT Coordination. of the Federal Institute of Piauí - Campus Angical, the system managed the network points present throughout the campus and the registration numbers of all equipment under the responsibility of coordination. It was developed in 2019 using PHP/MySQL.
-
-<hr>
 
 #### Main skills:
 
